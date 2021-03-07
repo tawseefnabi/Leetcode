@@ -39,3 +39,10 @@ var twoSum2 = (nums, target) =>{
 console.time('twoSum2 runtime in ms: ')
 console.log("twoSum2 index:",twoSum2([2,3,4,5,10,1], 15))
 console.timeEnd('twoSum2 runtime in ms: ')
+
+/**
+ * twoSum index: [ 3, 4 ]
+ * twoSum runtime in ms: : 8.050ms
+ * twoSum2 index: [ 3, 4 ]
+ * twoSum2 runtime in ms: : 0.507ms
+ */
